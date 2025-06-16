@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "ML with Aryan"
 title_separator          : "-"
-subtitle                 : "Hope it helps!"
+subtitle                 : "ML for all"
 name                     : "Aryan G. Raut"
 description              : "Tracking the highs and lows and ebbs and flows of my machine learning journey"
 url                      : "https://aryanraut-33.github.io"
